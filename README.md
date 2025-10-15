@@ -24,8 +24,8 @@ This dashboard provides valuable insights for HR departments to monitor workforc
 - **Microsoft Excel** (data source)
 - **Data Cleaning & Modeling**: DAX & Power Query
 
-### 📷 Dashboard Preview
-![HR Dashboard](HR%20Dashboard%203.jpg)
+## Dashboard Preview
+![HR Dashboard](HR_Dashboard.png)
 
 ### 🧑‍💻 About This Project
 This HR Dashboard was designed to demonstrate analytical storytelling through Power BI visualizations.  
