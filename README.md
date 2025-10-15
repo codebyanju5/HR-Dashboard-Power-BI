@@ -20,7 +20,7 @@ This project demonstrates an interactive HR Analytics Dashboard built in Power B
 
 ## Tools & Technologies
 - Power BI Desktop  
-- Microsoft Excel (data source)  
+- **CSV Dataset** (raw HR data source) 
 - Data Cleaning & Modeling: DAX & Power Query
 
 ## DAX Measures
